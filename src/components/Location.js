@@ -14,7 +14,7 @@ const Location = () => {
   return (
     <>
       <button
-        className="mr-4 py-2 px-4 rounded-lg bg-yellow-500 hover:bg-red-700 hover:text-white hover:font-bolder text-black font-bolder dark:text-black"
+        className="mr-4 py-2 px-4 rounded-lg bg-yellow-500 hover:bg-red-700 hover:text-white dark:hover:text-white text-black font-bolder dark:text-black"
         onClick={openModal}
       >
      Location 
