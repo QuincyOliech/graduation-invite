@@ -43,15 +43,16 @@ const Home = () => {
                 <h2 className="text-2xl mx-auto text-center font-bold mb-4 text-red-700 dark:text-red-700">
                   Details of Graduation Party
                 </h2>
-                <p className="text-lg mb-4">
+                <p className="text-lg mb-4 sm:text-center">
                   I will be hosting an informal graduation party at Pablo's
                   Pizza Mexican Eatery Mexobar, starting at 1.00 pm.
                 </p>
-                <p className="text-lg mb-4">
+
+                <p className="text-lg mb-4 sm:text-center">
                   Please note that everyone is expected to pay for their own
                   meal and drink.
                 </p>
-                <p className="text-lg mb-4">
+                <p className="text-lg mb-4 sm:text-center">
                   To help with planning, I kindly request that you RSVP by 10TH
                   May. Your response will allow me to make adequate arrangements
                   for the event.

@@ -2,7 +2,10 @@ const Footer = () => {
   return (
     <footer className="bottom-0 w-full bg-red-700 dark:bg-yellow-500 py-4 px-8 flex flex-col items-center justify-center sm:flex-row sm:justify-between">
       <p className="text-white text-sm sm:text-md dark:text-black dark:font-bolder mb-2 sm:mb-0">
-        &copy; 2023 Quincy Oliech's Graduation Invite. All rights reserved.
+        &copy; 2023 Quincy Oliech's Graduation Invite. 
+      </p>
+      <p className="text-white text-sm sm:text-md dark:text-black dark:font-bolder mb-2 sm:mb-0">
+        All Rights Reserved.
       </p>
       
       <div className="flex items-center space-x-4">
