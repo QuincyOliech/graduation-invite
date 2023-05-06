@@ -26,7 +26,7 @@ const Home = () => {
           />
         </div>
 
-        <div className="md:w-2/3 py-8 md:py-0 m-4">
+        <div className="md:w-2/3 py-8 md:py-0 m-4 text-center">
           <div className="flex flex-col justify-center h-full">
             <div className="flex justify-between items-center mb-6">
               <h1 className="text-4xl md:text-6xl sm:text-center text-center font-bold text-yellow-500 dark:text-yellow-600 sm:mt-8 mx-auto">
